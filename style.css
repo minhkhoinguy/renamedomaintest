@@ -1,0 +1,20 @@
+header {
+    background: lightblue;
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+
+}
+
+main {
+    background: salmon;
+    font-size: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
